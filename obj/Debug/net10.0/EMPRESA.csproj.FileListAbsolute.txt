@@ -1,0 +1,15 @@
+C:\Users\kacio\EMPRESA\bin\Debug\net10.0\EMPRESA.exe
+C:\Users\kacio\EMPRESA\bin\Debug\net10.0\EMPRESA.deps.json
+C:\Users\kacio\EMPRESA\bin\Debug\net10.0\EMPRESA.runtimeconfig.json
+C:\Users\kacio\EMPRESA\bin\Debug\net10.0\EMPRESA.dll
+C:\Users\kacio\EMPRESA\bin\Debug\net10.0\EMPRESA.pdb
+C:\Users\kacio\EMPRESA\obj\Debug\net10.0\EMPRESA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kacio\EMPRESA\obj\Debug\net10.0\EMPRESA.AssemblyInfoInputs.cache
+C:\Users\kacio\EMPRESA\obj\Debug\net10.0\EMPRESA.AssemblyInfo.cs
+C:\Users\kacio\EMPRESA\obj\Debug\net10.0\EMPRESA.csproj.CoreCompileInputs.cache
+C:\Users\kacio\EMPRESA\obj\Debug\net10.0\EMPRESA.sourcelink.json
+C:\Users\kacio\EMPRESA\obj\Debug\net10.0\EMPRESA.dll
+C:\Users\kacio\EMPRESA\obj\Debug\net10.0\refint\EMPRESA.dll
+C:\Users\kacio\EMPRESA\obj\Debug\net10.0\EMPRESA.pdb
+C:\Users\kacio\EMPRESA\obj\Debug\net10.0\EMPRESA.genruntimeconfig.cache
+C:\Users\kacio\EMPRESA\obj\Debug\net10.0\ref\EMPRESA.dll
