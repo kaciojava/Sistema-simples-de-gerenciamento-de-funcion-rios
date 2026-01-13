@@ -1,0 +1,73 @@
+# 🏢 Sistema de Gerenciamento de Funcionários
+
+![Banner do Projeto](/assets/Gemini_Generated_Image_p6e1vtp6e1vtp6e1.png)
+
+<div align="center">
+
+[![Language](https://img.shields.io/badge/Language-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![Framework](https://img.shields.io/badge/Framework-.NET%208.0-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/download)
+
+
+**Um sistema simples, porém robusto, para controle de colaboradores.**
+Explorando os fundamentos da Orientação a Objetos e manipulação de dados em C#.
+
+[Funcionalidades](#-funcionalidades) • [Tecnologias](#%EF%B8%8F-tecnologias-utilizadas) • [Como Executar](#-como-executar-o-projeto) • [Autor](#-autor)
+
+</div>
+
+---
+
+## 📄 Sobre o Projeto
+
+Este projeto foi desenvolvido com o objetivo de consolidar conhecimentos em **C#** e **Programação Orientada a Objetos (POO)**. Ele simula um ambiente corporativo onde é necessário gerenciar o ciclo de vida do cadastro de um funcionário (CRUD), focando em um código limpo e bem estruturado.
+
+O sistema opera via console, oferecendo um menu interativo para o usuário realizar as operações de gerenciamento.
+
+---
+
+## 🚀 Funcionalidades
+
+O sistema implementa um **CRUD** completo. Abaixo estão as principais operações disponíveis:
+
+* [x] **🆕 Cadastrar Funcionário:** Registro completo com validação de dados (Nome, Cargo, Salário).
+* [x] **📋 Listar Colaboradores:** Visualização organizada de toda a equipe registrada.
+* [x] **🔍 Buscar Específica:** Localização rápida de funcionários por ID ou Nome.
+* [x] **✏️ Atualizar Dados:** Edição de informações cadastrais de um colaborador existente.
+* [x] **🗑️ Remover Funcionário:** Exclusão segura de registros do sistema.
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+O projeto foi construído utilizando as seguintes tecnologias e conceitos:
+
+| Categoria | Tecnologia / Conceito |
+| :--- | :--- |
+| **Linguagem** | C# (Versão mais recente suportada pelo .NET) |
+| **Framework** | .NET 8.0 (Console Application) |
+| **Paradigma** | Programação Orientada a Objetos (POO) |
+| **IDE** | Visual Studio / VS Code |
+
+---
+
+## 🏁 Como Executar o Projeto
+
+Siga os passos abaixo para rodar o sistema na sua máquina local.
+
+**Pré-requisitos**
+Tenha o .NET SDK instalado (versão 6.0 ou superior recomendada).
+
+**Passo a Passo**
+
+1.  **Clone o repositório:**
+    ```bash
+    git clone [https://github.com/SEU-USUARIO/nome-do-repositorio.git](https://github.com/kaciojava/Sistema-simples-de-gerenciamento-de-funcion-rios.git)
+    ```
+2.  **Localize o arquivo principal:**
+    ```bash
+    cd Sistema-simples-de-gerenciamento-de-funcion-rios
+    ```
+3.  **Execute:**
+    ```bash
+    dotnet run
+    ```
